@@ -1,0 +1,48 @@
+Q2 What Could have gone better ? 
+
+I have invested a significant amount of time working on code fixes along with enhancements and 
+I am glad that I have made notable contribution.
+I still find it challenging to pass on certain tasks. 
+but I continue to work on that and feel that I have definitely turned a corner
+for example, managing and mitigating the initial code setup and related issues.
+
+
+[Key Development areas focuse upon]
+
+In last 6 month my primary focus was an objective first rather than subjective one. 
+To exemplify I try to put efforts in having adequete understanding of my work process and then aim to get in depth for the same.
+Whilst working on any feature or fixes,usually I try to explicate over the context of the problem before commencing towards the solution.
+
+I also evaluate my personal growth plans at certain periods
+I'm curious and awlays interested in learning new things.
+Hence I keep myself updated with the relevant recent trends and try to incorporate them in my work. 
+for example, In programming language I look upto to assimilate the modern language features if those are rational for existing codebase.
+
+I try to make sure that both my personal as well as professional growth are aligned as per respective needs.
+
+Moreover I've focused on enhancing my communication skills to improve my team collaboration.
+
+I've organize my work to cultivate the productivity with right balance. 
+For instance, I make use of tools such as notion to keep track of my stuffs on daily basis. 
+Accomplishing the priority tasks is at the top in my plate.
+
+I keep seeking opportunities for connecting with employees regardless of which domain they belong to. 
+
+New Skills Technologies Learned in Last 6 month
+
+Over the last 6 month I've not explored any new particular framework or technology majorly 
+but I've got flavor about many essential things such as basic working functionality of SAAS models. 
+For instance how product propogate at various stages through different pipelines and environment.
+The way the SAAS model operates is bit intriguing and I've arouse an interest to get more nitty-gritty about it. 
+
+From technical context, I found bit challenging to cope up with the flutter web as I was not having the 
+relevant experience in the past. But I've took a step with it. To add to this engaging with the Cross-Platform project (ie Mobile, Web) 
+is also an added experience 
+
+However I am passionate about algorithms and maths, So whenever I got time I try to explore and study Machine Learning and Deep Learning 
+
+In addition to that, I've also learn few yoga asanas from sessions offered by zenoti. I appreciate the initiative
+and What is more I truly realize the meaning of phrase 'Health is Wealth'.
+
+
+

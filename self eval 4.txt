@@ -1,0 +1,8 @@
+* Impact you want to deliver in next review period 
+
+  I want to bring more proficient solutions with my contributions.
+  For example By improving the code readability so as to make code more maintainable.
+  In addition to that, Code restructuring or refactoring may bring more robustness and thus serve above cause likewise.
+
+  
+

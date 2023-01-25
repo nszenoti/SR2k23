@@ -1,0 +1,22 @@
+Q) How well have you collaborated with others? 
+   Share instances where others have helped you and you've helped them achieve their goals/shared goals.
+
+  To begin with I must say that work-culture milieu is amicable and comrades are supportive.
+  Adjusting to new work environments can sometimes be a challenge, but I've accustom myself with it.
+
+- Though I am working in an online mode, I didnt face any barrier while connecting to others. 
+  I've readily communicated and collaborated with the teammates regarding any concerns I have to discuss about. 
+  May it be group discussion, doubt solving or any other purpose.
+  I enjoyed working with my teammates. 
+
+  I was able to communicate with my team and share my opinions and expectations without being imposed.
+  I can proactively converse with managers and directors during daily standup.
+  
+  More often I have a discussion regarding doubt solving, code explainability and task updates with my team.
+  I tried to support my co-workers and provide constructive feedback at all times.
+
+  To iterate an instance, I was facing difficulty setting up the dev-environment code setup 
+  Despite several attempts, I couldn't make it and then I seek help of a teammate to solve the issue.
+  In another case, There was a critical bug introduced after flutter code migration, in which case I engaged in group discussion and share my inputs to identify and ameliorate the error.
+
+ 

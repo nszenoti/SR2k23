@@ -1,0 +1,20 @@
+* Impact Created :
+  
+  - I've contributed towards the bug fixes & code-refactoring for ezconnect features
+  - I've also assist in flutter code migration towards null-safe.
+  - I've work towards development of new features such as Private Notes and Bulk-Sms
+  - Moreover I've tried to improve the code quality & code readability interactively.
+  
+  Competencies & Values
+
+* Key development areas :
+  - Development of problem solving mindset
+  - Technically, Flutter was the major framework I've worked in last six month. Alongwith few contributions towards C# DotNet as well
+  - I've primarily focus on quality of the code I contribute
+  - Feature Enhancement
+  - Bug Fixes
+
+  New Things Learned : 
+  - I've never explored the Flutter Web before, having said that with ezconnect I got chance to work for the same.
+
+  

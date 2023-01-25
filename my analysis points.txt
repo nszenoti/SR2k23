@@ -1,0 +1,43 @@
+My Accomplishments
+
+- I've been engaged in development of 2 new features Private Note and Bulk SMS 
+- I've assisted the null-safe migration of flutter code base
+- I've also assist in development of ezconnect support for mobile platform 
+- I've tried to improve the code quality interactively and incidently
+
+My Struggles :
+
+- I found bit challenging to cope up with the flutter web as I was not having the 
+  web experience in the past
+
+- The initial code setup was bit 
+
+
+Area of Improvements
+- I've actually kind of tendency that when I get involved with something may be invested
+  POC, actual feature or bug, until I get 100% clarity I am unfocused to other parallel stuffs
+  I carry this impulse from a long back, but I've improved myself on this and will continue to 
+  work for the same to keep optimal balance
+
+- Due to several health consequences since last 2 month, I've observed that my daily 
+  timeline (ie check-in and check-out) was uneven. But I'll try to ameliorate it to usual.
+
+- Technically, I need to gain more skills for handling the cross-platform app from multiple perspectives
+  such as code architecture, code maintainability, code readability, code integrations and likewise
+  
+
+My Shortcomings
+
+- I do interact with colleagues for technical or task oriented discussion more often
+  However the interaction regarding other awareness or non-tech stuff is less is what I feel.
+  So I'll try to be more extrovert than what I am at present
+
+- I do need to improve with my cross-platform development skills
+  For instance as from earlier time I was well versed with mobile development (esp android)
+      but now since I am functioning with multiple platforms so I need to gain know-how respectively
+      i.e Ios, Web, Desktop 
+
+I struggle with last-minute deviations from the plan. 
+I like to be very well-prepared, so when things change I often struggle to remain composed as I rework my role in the project. I’d like to work on this by taking a ToastMasters course. I think the on-the-spot nature of public speaking, 
+which the group teaches, will help me become more confident with unexpected changes.  
+
