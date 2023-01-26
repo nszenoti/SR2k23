@@ -9,7 +9,8 @@ To point out, I was involved in the development of new ezConnect features, namel
 I've also helped with Flutter code migration and ezConnect mobile support development.
 Aside from that, I've helped with code enhancements and bug fixes for ongoing sprints. 
 
-I conceive that my skills and ability to work in a team have been valuable during this period. and there are several attributes that I'd like to put forward.
+I conceive that my skills and ability to work in a team have been valuable during this period. 
+There are several attributes that I'd like to put forward.
 
 One of the attributes I'd like to highlight is the problem-solving ability, through which I discern the task thoroughly and then devise an approach for a solution likewise. In that case, I can get better context and manage different scenarios efficiently.
 By being proactive, I always ask questions related to the stuff I don't understand, which helps me get clarity and be mindful of the requirements. Thus, I can attempt the corresponding task effectively and remain intact to my goals.
