@@ -1,5 +1,6 @@
 I want to bring more proficient solutions to my contributions.
-For example, by improving the code quality so as to make it more readable and maintainable. In addition to that, code restructuring or refactoring may bring more robustness and thus serve the same purpose.
+For example, by improving the code quality so as to make it more readable and maintainable. 
+In addition to that, code restructuring or refactoring may bring more robustness and thus serve the same purpose.
 
 I aim to strengthen my problem solving competency so that I can frame optimal approaches for different perspectives on product development.
 
