@@ -1,5 +1,4 @@
-I've consistently shown commitment and motivation ever since I joined the organization 
-This helps me demonstrating the significant work values.
+I've consistently shown commitment and motivation ever since I joined the organization. This helps me demonstrate substantial work values.
 
 I meet set deadlines and objectives most of the time. 
 I manage my time effectively by prioritising the important tasks.
@@ -7,8 +6,8 @@ I often go above and beyond to match targets and expectations.
 
 I'm extremely proud of my contributions and what I've achieved over the past year.
 To point out, I was involved in the development of new ezConnect features, namely "Private Notes" and "Bulk SMS".
-I've also helped with flutter code migration and ezConnect mobile support development.
-Aside from that, I've helped with code enhancement and bug fixes for ongoing sprints. 
+I've also helped with Flutter code migration and ezConnect mobile support development.
+Aside from that, I've helped with code enhancements and bug fixes for ongoing sprints. 
 
 I conceive that my skills and ability to work in a team have been valuable during this period. and there are several attributes that I'd like to put forward.
 
