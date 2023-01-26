@@ -1,0 +1,16 @@
+To begin with, I must say that the work-culture milieu is amicable and comrades are supportive.
+Adjusting to new work environments can sometimes be a challenge, but I soon found myself settling in.
+
+Though I am working in an online mode, I didn't face any barriers while connecting to others.
+I've readily communicated and collaborated with the teammates regarding any concerns I have to discuss. whether for a group discussion, problem solving, or any other reason.
+I enjoyed working with my teammates. 
+
+I was able to communicate with my team and share my opinions and expectations without being imposed.
+I can proactively converse with managers and directors during the daily standup.
+
+More often, I have a discussion regarding doubt solving, code explainability, and task updates with my team.
+I tried to support my co-workers and provide constructive feedback at all times.
+
+To iterate on an instance, I was facing difficulty setting up the dev-environment code setup. Despite several attempts, I couldn't make it, and then I sought the help of a teammate to solve an issue.
+In another case, there was a critical bug introduced after Flutter code migration, in which case I engaged in group discussion and shared my inputs to identify and ameliorate the error.
+

@@ -1,0 +1,34 @@
+ 
+I have invested a significant amount of time working on code fixes along with enhancements, and I am glad that I have made notable contributions.
+I still find it challenging to pass on certain tasks. but I continue to work on that and feel that I have definitely turned a corner.
+for example, managing and mitigating the initial code setup and related issues.
+
+My primary focus over the last six months has been more objective oriented than subjective based.
+To illustrate, I make an effort to gain an adequate understanding of my work process before delving deeper into it.
+I usually try to explicate the context of the problem before commencing to work on the solution.
+
+I also evaluate my personal growth plans at certain periods.
+I'm curious and always interested in learning new things. Hence, I keep myself updated with the relevant recent trends and try to incorporate them into my work. 
+To exemplify, for a given programming language, I look to assimilate the modern language features if those are rational for an existing codebase.
+
+I try to make sure that both my personal as well as professional growth are aligned with their respective needs.
+Furthermore, I've focused on enhancing my communication skills to improve team collaboration.
+
+I've organised my work to cultivate productivity with the right balance. On a daily basis, for example, I use tools like Notion to keep track of my belongings.
+Accomplishing the priority tasks is at the top of my list.
+
+I keep seeking opportunities for connecting with employees, regardless of which domain they belong to. 
+
+Over the last 6 months, I haven't seriously investigated any new framework or technology. But I've got a taste of many essential things, such as the basic working functionality of SAAS models. 
+For instance, I learned about how product propogates at various stages through different pipelines and environments.
+The way the SAAS model operates is a bit intriguing, and I've developed an interest in exploring the nitty-gritty of it. 
+
+From a technical context, I found it a bit challenging to cope up with the Flutter Web, as I lack relevant experience from the past. But I've taken a step with it. 
+To add to this, engaging with the cross-platform project (i.e., mobile and web) is also an added experience.
+
+However, because I am interested in algorithms and math, I try to explore and study machine learning and deep learning whenever I have the opportunity.
+
+Above all, I've also learned a few yoga asanas from sessions offered by Zenoti. Indeed, I appreciate the initiative. Besides that, I truly understand the meaning of the phrase "health is wealth."
+
+
+
